@@ -1,40 +1,25 @@
 # 🏥 Hospital Patient Management System (SQL Project)
-
 ## 📌 Project Title
 Hospital Patient Management System
-
----
-
 ## 🎯 Objective
 To design a real-world relational database system using SQL Server to manage hospital operations such as:
-
 - Patient records
 - Doctor and staff management
 - Appointments scheduling
 - Admissions and bed tracking
 - Billing and payment tracking
 - Healthcare analytics and reporting
-
----
-
-## 🧰 Tools Used
+ 🧰 Tools Used
 - SQL Server (SSMS)
 - SQL (DDL + DML + DQL)
-
----
-
-## 🏗️ Database Overview
-
+ 🏗️ Database Overview
 This project is designed with a normalized relational structure including:
-
 - Patients
 - Doctors (Staff)
 - Departments
 - Appointments
 - Admissions
 - Billing (Invoices)
-
----
 
 ## 🧾 Tables Description
 
@@ -88,9 +73,6 @@ This project provides real-world hospital insights such as:
 - Pending billing analysis
 - Revenue tracking
 - Doctor workload distribution
-
----
-
 ## 🧠 Key Learning Outcomes
 
 - Understanding relational database design
@@ -98,8 +80,6 @@ This project provides real-world hospital insights such as:
 - Writing real-world SQL queries
 - Performing business and healthcare analytics
 - Building job-ready SQL project portfolio
-
----
 
 ## 🚀 Project Features
 
